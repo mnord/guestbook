@@ -1,5 +1,36 @@
+body {
+    height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+form div {
+    margin-top: 10px;
+}
+
+form label {
+    display: block;
+    font-size: 18px;
+    padding: 5px 0;
+}
+
+form input {
+    padding: 5px;
+}
+
 #msg {
     height: 200px;
-    width: 300px;
+    width: 800px;
+    padding: 10px;
+    margin: 10px auto;
     border: 1px solid black;
 }

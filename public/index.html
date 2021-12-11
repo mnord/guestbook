@@ -9,13 +9,25 @@
     </head>
     <body>
         <div id="wrapper">
-            <h1>Registration</h1>
-            <form action="/test" id="reg-form" method="post">
-                <input type="text" name="username" id="username" placeholder="Username" autocomplete="off">
-                <input type="password" name="password" id="password" placeholder="Password" autocomplete="off">
-                <input type="submit" value="Submit Form">
+            <h1>Forum</h1>
+            <form action="/" id="forum-form" method="post">
+                <div>
+                    <label for="username">Användarnamn:</label>
+                    <input type="text" name="username" id="username" placeholder="Username" autocomplete="off">
+                </div>
+                <div>
+                    <label for="email">Email:</label>
+                    <input type="email" name="email" id="email" placeholder="Email" autocomplete="off">
+                </div>
+                <div><textarea name="message" id="message" cols="40" rows="5"></textarea></div>
+                <div>
+                    <input type="submit" value="Submit Form">
+                </div>       
+                
             </form>
-            <div id="msg"></div>
+            <div id="msg">
+               <p>test</p>
+            </div>
 
         </div>
         

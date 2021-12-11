@@ -1,1 +1,44 @@
-{"username":"bla","password":"bla"}{"username":"hallo","password":"blabla"}
+[
+  {
+    "timestamp": 1639188561188,
+    "namn": "",
+    "email": "",
+    "message": ""
+  },
+  {
+    "timestamp": 1639188754460,
+    "namn": "bla",
+    "email": "la@la.com",
+    "message": "lala"
+  },
+  {
+    "timestamp": 1639188793178,
+    "namn": "coocoo",
+    "email": "bla@ba.na",
+    "message": "sjiojj"
+  },
+  {
+    "timestamp": 1639188958162,
+    "namn": "dhuj",
+    "email": "ssj@dduj.com",
+    "message": "dnkd"
+  },
+  {
+    "timestamp": 1639188984375,
+    "namn": "dhuj",
+    "email": "ssj@dduj.com",
+    "message": "dnkd"
+  },
+  {
+    "timestamp": 1639188999819,
+    "namn": "ff",
+    "email": "ss@ddj.ddj",
+    "message": "sjjfdk"
+  },
+  {
+    "timestamp": 1639189035417,
+    "namn": "keso",
+    "email": "sad@ba.ds",
+    "message": "dehkdjddjk"
+  }
+]
