@@ -27,10 +27,21 @@ form input {
     padding: 5px;
 }
 
+h3 {
+    font-size: 14px;
+    background-color: cornsilk;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+#errormsg {
+    font-size: 12px;
+    color: darkred;
+}
+
 #msg {
-    height: 200px;
     width: 800px;
-    padding: 10px;
+    padding: 5px;
     margin: 10px auto;
     border: 1px solid black;
 }

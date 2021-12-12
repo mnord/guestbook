@@ -1,44 +1,26 @@
 [
   {
-    "timestamp": 1639188561188,
+    "timestamp": 1639322789270,
     "namn": "",
     "email": "",
     "message": ""
   },
   {
-    "timestamp": 1639188754460,
+    "timestamp": 1639338809033,
     "namn": "bla",
     "email": "la@la.com",
-    "message": "lala"
+    "message": "&lt;script&gt;alert(&quot;tja!&quot;)&lt;/script&gt;"
   },
   {
-    "timestamp": 1639188793178,
-    "namn": "coocoo",
-    "email": "bla@ba.na",
-    "message": "sjiojj"
+    "timestamp": 1639341881031,
+    "namn": "Google",
+    "email": "goo@gle.com",
+    "message": "Testing testing"
   },
   {
-    "timestamp": 1639188958162,
-    "namn": "dhuj",
-    "email": "ssj@dduj.com",
-    "message": "dnkd"
-  },
-  {
-    "timestamp": 1639188984375,
-    "namn": "dhuj",
-    "email": "ssj@dduj.com",
-    "message": "dnkd"
-  },
-  {
-    "timestamp": 1639188999819,
-    "namn": "ff",
-    "email": "ss@ddj.ddj",
-    "message": "sjjfdk"
-  },
-  {
-    "timestamp": 1639189035417,
-    "namn": "keso",
-    "email": "sad@ba.ds",
-    "message": "dehkdjddjk"
+    "timestamp": 1639342346789,
+    "namn": "Bengt",
+    "email": "tarzan@test.com",
+    "message": "lala blablabla"
   }
 ]
