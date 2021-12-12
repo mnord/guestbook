@@ -22,5 +22,11 @@
     "namn": "Bengt",
     "email": "tarzan@test.com",
     "message": "lala blablabla"
+  },
+  {
+    "timestamp": 1639342884829,
+    "namn": "Testar",
+    "email": "focus@at.task",
+    "message": "hejsan &lt;p&gt;hej&lt;/p&gt; &quot;"
   }
 ]
