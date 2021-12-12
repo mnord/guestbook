@@ -16,15 +16,6 @@ function errorMessage (msg) {
     displayError.innerHTML = msg;
 }
 
-function escapeHtml(unsafe)
-{
-    return unsafe
-         .replace(/&/g, "&amp;")
-         .replace(/</g, "&lt;")
-         .replace(/>/g, "&gt;")
-         .replace(/"/g, "&quot;")
-         .replace(/'/g, "&#039;");
- }
 
 //Kollar så att namn är skrivet, skickar felmeddelande om tomt
 const checkName = () => {
